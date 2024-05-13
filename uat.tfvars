@@ -1,0 +1,5 @@
+ecs_cluster_name = "malik-ecs-cluster-uat"
+ecs_service_name = "malik-ecs-service-uat"
+ecs_task_defn_family = "malik-ecs-task-def-uat"
+ecs_container_name = "malik-container-uat"
+ecs_port_name = "malik-3000-tcp-uat"

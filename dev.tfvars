@@ -1,0 +1,5 @@
+ecs_cluster_name = "malik-ecs-cluster-dev"
+ecs_service_name = "malik-ecs-service-dev"
+ecs_task_defn_family = "malik-ecs-task-def-dev"
+ecs_container_name = "malik-container-dev"
+ecs_port_name = "malik-3000-tcp-dev"
