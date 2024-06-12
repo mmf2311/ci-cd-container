@@ -188,7 +188,7 @@
     "to-regex-range": "^5.0.1",
     "type-detect": "^4.0.8",
     "type-fest": "^0.21.3",
-    "undici-types": "^5.26.5",
+    "undici-types": "^5.28.4",
     "update-browserslist-db": "^1.0.15",
     "v8-to-istanbul": "^9.2.0",
     "walker": "^1.0.8",
